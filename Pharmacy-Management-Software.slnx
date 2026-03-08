@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Pharmacy-Management-Software.API/Pharmacy-Management-Software.API.csproj" />
+  <Project Path="Pharmacy-Management-Software.AppHost/Pharmacy-Management-Software.AppHost.csproj" />
+  <Project Path="Pharmacy-Management-Software.Core/Pharmacy-Management-Software.Core.csproj" />
+  <Project Path="Pharmacy-Management-Software.Data/Pharmacy-Management-Software.Data.csproj" />
+  <Project Path="Pharmacy-Management-Software.MAUI/Pharmacy-Management-Software.MAUI.csproj" />
+  <Project Path="Pharmacy-Management-Software.Services/Pharmacy-Management-Software.Services.csproj" />
+  <Project Path="Pharmacy-Management-Software.TenantManager/Pharmacy-Management-Software.TenantManager.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pharmacy-Management-Software.Core\Pharmacy-Management-Software.Core.csproj" />
+    <ProjectReference Include="..\Pharmacy-Management-Software.Data\Pharmacy-Management-Software.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Pharmacy_Management_Software.TenantManager</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
